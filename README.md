@@ -1,3 +1,3 @@
 # vue-app
 
-## A random user generator for app
+## A random user generator app
